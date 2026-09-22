@@ -75,9 +75,9 @@ A transit navigation app built with a team as a TechyJaunt capstone project — 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/chiagoziem-oluigbo-0379312bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="oluigbokizito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Open to remote junior full-stack roles — let's build something great together!</i></p>
