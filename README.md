@@ -2,9 +2,9 @@
 <h3 align="center">Backend & Full-Stack Developer | Node.js • Express • MongoDB • PostgreSQL • React</h3>
 
 <p align="center">
- I'm a developer from Nigeria passionate about building **reliable, scalable, and practical web applications** that solve real-world problems.
+ I'm a developer from Nigeria passionate about building reliable, scalable, and practical web applications that solve real-world problems.
 
-I enjoy working across the backend and frontend, with a particular interest in **API development, authentication, databases, and application architecture**. I'm continuously improving my skills by building projects, exploring new technologies, and collaborating with other developers.
+I enjoy working across the backend and frontend, with a particular interest in API development, authentication, databases, and application architecture. I'm continuously improving my skills by building projects, exploring new technologies, and collaborating with other developers.
 
 
 </p>
